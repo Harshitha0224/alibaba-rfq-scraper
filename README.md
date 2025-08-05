@@ -14,7 +14,3 @@ This project uses Python and Selenium to scrape RFQ (Request For Quote) listings
 - `alibaba_rfq_scraper_selenium.py`: Scrapes raw RFQ data
 - `clean_rfq_output_v2.py`: Cleans and structures scraped data
 - `rfq_output_cleaned.csv`: Final result
-
-## How to Run
-
-1. Install required libraries:
